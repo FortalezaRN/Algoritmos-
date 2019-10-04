@@ -1,1 +1,1 @@
-Atividades e desafios de algoritmos 
+Atividades e desafios de algoritmos. Alguns da internet outros de lista do curso de BTI.
